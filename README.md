@@ -1,0 +1,2 @@
+# slotsspot-slider
+Beta test
